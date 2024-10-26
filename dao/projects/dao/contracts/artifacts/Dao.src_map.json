@@ -1,0 +1,453 @@
+[
+  {
+    "teal": 1,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      0
+    ]
+  },
+  {
+    "teal": 2,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "teal": 3,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "teal": 15,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      15,
+      16
+    ]
+  },
+  {
+    "teal": 16,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      17
+    ]
+  },
+  {
+    "teal": 17,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      18,
+      19
+    ]
+  },
+  {
+    "teal": 18,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      20
+    ]
+  },
+  {
+    "teal": 19,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      21,
+      22
+    ]
+  },
+  {
+    "teal": 20,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      23
+    ]
+  },
+  {
+    "teal": 21,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "teal": 25,
+    "source": "contracts/dao.algo.ts:3",
+    "errorMessage": "The requested action is not implemented in this contract. Are you using the correct OnComplete? Did you set your app ID?",
+    "pc": [
+      50
+    ]
+  },
+  {
+    "teal": 30,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "teal": 31,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "teal": 34,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "teal": 35,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      60
+    ]
+  },
+  {
+    "teal": 36,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      61
+    ]
+  },
+  {
+    "teal": 40,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "teal": 44,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      65
+    ]
+  },
+  {
+    "teal": 45,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      66,
+      67
+    ]
+  },
+  {
+    "teal": 46,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      68
+    ]
+  },
+  {
+    "teal": 47,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      69
+    ]
+  },
+  {
+    "teal": 48,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      70
+    ]
+  },
+  {
+    "teal": 49,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      71,
+      72,
+      73
+    ]
+  },
+  {
+    "teal": 50,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      74
+    ]
+  },
+  {
+    "teal": 51,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      75
+    ]
+  },
+  {
+    "teal": 52,
+    "source": "contracts/dao.algo.ts:9",
+    "pc": [
+      76
+    ]
+  },
+  {
+    "teal": 53,
+    "source": "contracts/dao.algo.ts:8",
+    "pc": [
+      77
+    ]
+  },
+  {
+    "teal": 58,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ]
+  },
+  {
+    "teal": 61,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      84,
+      85,
+      86
+    ]
+  },
+  {
+    "teal": 62,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      87
+    ]
+  },
+  {
+    "teal": 63,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      88
+    ]
+  },
+  {
+    "teal": 64,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      89
+    ]
+  },
+  {
+    "teal": 65,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      90,
+      91,
+      92
+    ]
+  },
+  {
+    "teal": 66,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      93
+    ]
+  },
+  {
+    "teal": 67,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      94
+    ]
+  },
+  {
+    "teal": 68,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      95
+    ]
+  },
+  {
+    "teal": 69,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      96
+    ]
+  },
+  {
+    "teal": 70,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      97
+    ]
+  },
+  {
+    "teal": 71,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      98
+    ]
+  },
+  {
+    "teal": 75,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      99,
+      100,
+      101
+    ]
+  },
+  {
+    "teal": 79,
+    "source": "contracts/dao.algo.ts:14",
+    "pc": [
+      102
+    ]
+  },
+  {
+    "teal": 80,
+    "source": "contracts/dao.algo.ts:14",
+    "pc": [
+      103
+    ]
+  },
+  {
+    "teal": 81,
+    "source": "contracts/dao.algo.ts:14",
+    "pc": [
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "teal": 82,
+    "source": "contracts/dao.algo.ts:13",
+    "pc": [
+      107
+    ]
+  },
+  {
+    "teal": 85,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      108,
+      109,
+      110,
+      111,
+      112,
+      113
+    ]
+  },
+  {
+    "teal": 86,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      114,
+      115,
+      116
+    ]
+  },
+  {
+    "teal": 87,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      117,
+      118,
+      119,
+      120
+    ]
+  },
+  {
+    "teal": 90,
+    "source": "contracts/dao.algo.ts:3",
+    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
+    "pc": [
+      121
+    ]
+  },
+  {
+    "teal": 93,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ]
+  },
+  {
+    "teal": 94,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      128,
+      129,
+      130
+    ]
+  },
+  {
+    "teal": 95,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      131,
+      132,
+      133,
+      134
+    ]
+  },
+  {
+    "teal": 98,
+    "source": "contracts/dao.algo.ts:3",
+    "errorMessage": "this contract does not implement the given ABI method for call NoOp",
+    "pc": [
+      135
+    ]
+  }
+]
