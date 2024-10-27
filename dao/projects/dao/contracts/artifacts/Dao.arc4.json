@@ -3,11 +3,11 @@
   "desc": "",
   "methods": [
     {
-      "name": "vote",
+      "name": "createApplication",
       "args": [
         {
-          "name": "inFavour",
-          "type": "bool"
+          "name": "proposal",
+          "type": "string"
         }
       ],
       "returns": {
@@ -15,11 +15,30 @@
       }
     },
     {
-      "name": "createApplication",
+      "name": "bootstrap",
+      "args": [],
+      "returns": {
+        "type": "uint64"
+      }
+    },
+    {
+      "name": "register",
       "args": [
         {
-          "name": "proposal",
-          "type": "string"
+          "name": "registeredASA",
+          "type": "uint64"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "vote",
+      "args": [
+        {
+          "name": "inFavour",
+          "type": "bool"
         }
       ],
       "returns": {

@@ -12,14 +12,14 @@
     "pc": [
       1,
       2,
-      3
+      3,
+      4
     ]
   },
   {
     "teal": 3,
     "source": "contracts/dao.algo.ts:3",
     "pc": [
-      4,
       5,
       6,
       7,
@@ -59,58 +59,16 @@
       41,
       42,
       43,
-      44
-    ]
-  },
-  {
-    "teal": 15,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
+      44,
       45,
-      46
-    ]
-  },
-  {
-    "teal": 16,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
-      47
-    ]
-  },
-  {
-    "teal": 17,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
+      46,
+      47,
       48,
-      49
-    ]
-  },
-  {
-    "teal": 18,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
-      50
-    ]
-  },
-  {
-    "teal": 19,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
+      49,
+      50,
       51,
-      52
-    ]
-  },
-  {
-    "teal": 20,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
-      53
-    ]
-  },
-  {
-    "teal": 21,
-    "source": "contracts/dao.algo.ts:3",
-    "pc": [
+      52,
+      53,
       54,
       55,
       56,
@@ -118,16 +76,58 @@
       58,
       59,
       60,
-      61,
+      61
+    ]
+  },
+  {
+    "teal": 15,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
       62,
-      63,
-      64,
+      63
+    ]
+  },
+  {
+    "teal": 16,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      64
+    ]
+  },
+  {
+    "teal": 17,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
       65,
-      66,
-      67,
+      66
+    ]
+  },
+  {
+    "teal": 18,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      67
+    ]
+  },
+  {
+    "teal": 19,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
       68,
-      69,
-      70,
+      69
+    ]
+  },
+  {
+    "teal": 20,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      70
+    ]
+  },
+  {
+    "teal": 21,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
       71,
       72,
       73,
@@ -136,7 +136,24 @@
       76,
       77,
       78,
-      79
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
     ]
   },
   {
@@ -144,342 +161,235 @@
     "source": "contracts/dao.algo.ts:3",
     "errorMessage": "The requested action is not implemented in this contract. Are you using the correct OnComplete? Did you set your app ID?",
     "pc": [
-      80
+      97
     ]
   },
   {
     "teal": 30,
-    "source": "contracts/dao.algo.ts:14",
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
-      81,
-      82,
-      83
-    ]
-  },
-  {
-    "teal": 31,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      84
-    ]
-  },
-  {
-    "teal": 32,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      85
-    ]
-  },
-  {
-    "teal": 33,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      86
-    ]
-  },
-  {
-    "teal": 34,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      87
-    ]
-  },
-  {
-    "teal": 37,
-    "source": "contracts/dao.algo.ts:14",
-    "errorMessage": "argument 0 (inFavour) for vote must be a bool",
-    "pc": [
-      88
-    ]
-  },
-  {
-    "teal": 38,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      89,
-      90
-    ]
-  },
-  {
-    "teal": 39,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      91
-    ]
-  },
-  {
-    "teal": 42,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      92,
-      93,
-      94
-    ]
-  },
-  {
-    "teal": 43,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      95
-    ]
-  },
-  {
-    "teal": 44,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      96
-    ]
-  },
-  {
-    "teal": 48,
-    "source": "contracts/dao.algo.ts:14",
-    "pc": [
-      97,
       98,
-      99
-    ]
-  },
-  {
-    "teal": 52,
-    "source": "contracts/dao.algo.ts:15",
-    "pc": [
+      99,
       100
     ]
   },
   {
-    "teal": 53,
-    "source": "contracts/dao.algo.ts:15",
+    "teal": 31,
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
-      101
-    ]
-  },
-  {
-    "teal": 54,
-    "source": "contracts/dao.algo.ts:15",
-    "pc": [
-      102
-    ]
-  },
-  {
-    "teal": 55,
-    "source": "contracts/dao.algo.ts:15",
-    "pc": [
+      101,
+      102,
       103
     ]
   },
   {
-    "teal": 56,
-    "source": "contracts/dao.algo.ts:15",
+    "teal": 34,
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
-      104
+      104,
+      105,
+      106
     ]
   },
   {
-    "teal": 57,
-    "source": "contracts/dao.algo.ts:15",
+    "teal": 35,
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
-      105
-    ]
-  },
-  {
-    "teal": 62,
-    "source": "contracts/dao.algo.ts:16",
-    "pc": [
-      106,
       107
     ]
   },
   {
-    "teal": 63,
-    "source": "contracts/dao.algo.ts:16",
+    "teal": 36,
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
-      108,
-      109,
-      110
+      108
     ]
   },
   {
-    "teal": 68,
-    "source": "contracts/dao.algo.ts:17",
+    "teal": 40,
+    "source": "contracts/dao.algo.ts:18",
     "pc": [
+      109,
+      110,
       111
     ]
   },
   {
-    "teal": 69,
-    "source": "contracts/dao.algo.ts:17",
+    "teal": 44,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
-      112
-    ]
-  },
-  {
-    "teal": 70,
-    "source": "contracts/dao.algo.ts:17",
-    "pc": [
+      112,
       113
     ]
   },
   {
-    "teal": 71,
-    "source": "contracts/dao.algo.ts:17",
+    "teal": 45,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
-      114
-    ]
-  },
-  {
-    "teal": 72,
-    "source": "contracts/dao.algo.ts:17",
-    "pc": [
+      114,
       115
     ]
   },
   {
-    "teal": 73,
-    "source": "contracts/dao.algo.ts:17",
+    "teal": 46,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
       116
     ]
   },
   {
-    "teal": 76,
-    "source": "contracts/dao.algo.ts:14",
+    "teal": 47,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
       117
     ]
   },
   {
-    "teal": 81,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 48,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
-      118,
-      119,
-      120
+      118
     ]
   },
   {
-    "teal": 82,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 49,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
-      121,
-      122,
+      119,
+      120,
+      121
+    ]
+  },
+  {
+    "teal": 50,
+    "source": "contracts/dao.algo.ts:19",
+    "pc": [
+      122
+    ]
+  },
+  {
+    "teal": 51,
+    "source": "contracts/dao.algo.ts:19",
+    "pc": [
       123
     ]
   },
   {
-    "teal": 85,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 52,
+    "source": "contracts/dao.algo.ts:19",
     "pc": [
-      124,
-      125,
+      124
+    ]
+  },
+  {
+    "teal": 53,
+    "source": "contracts/dao.algo.ts:18",
+    "pc": [
+      125
+    ]
+  },
+  {
+    "teal": 58,
+    "source": "contracts/dao.algo.ts:23",
+    "pc": [
       126
     ]
   },
   {
-    "teal": 86,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 61,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      127
+      127,
+      128,
+      129
     ]
   },
   {
-    "teal": 87,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 62,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      128
+      130
     ]
   },
   {
-    "teal": 91,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 63,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      129,
-      130,
       131
     ]
   },
   {
-    "teal": 95,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 64,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
       132
     ]
   },
   {
-    "teal": 96,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 65,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      133,
+      133
+    ]
+  },
+  {
+    "teal": 66,
+    "source": "contracts/dao.algo.ts:23",
+    "pc": [
       134
     ]
   },
   {
-    "teal": 97,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 70,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      135
-    ]
-  },
-  {
-    "teal": 98,
-    "source": "contracts/dao.algo.ts:22",
-    "pc": [
-      136
-    ]
-  },
-  {
-    "teal": 99,
-    "source": "contracts/dao.algo.ts:22",
-    "pc": [
+      135,
+      136,
       137
     ]
   },
   {
-    "teal": 100,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 73,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
       138,
-      139,
-      140
+      139
     ]
   },
   {
-    "teal": 101,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 80,
+    "source": "contracts/dao.algo.ts:26",
     "pc": [
+      140,
       141
     ]
   },
   {
-    "teal": 102,
-    "source": "contracts/dao.algo.ts:22",
+    "teal": 81,
+    "source": "contracts/dao.algo.ts:26",
     "pc": [
-      142
-    ]
-  },
-  {
-    "teal": 103,
-    "source": "contracts/dao.algo.ts:22",
-    "pc": [
+      142,
       143
     ]
   },
   {
-    "teal": 104,
-    "source": "contracts/dao.algo.ts:21",
+    "teal": 82,
+    "source": "contracts/dao.algo.ts:26",
     "pc": [
       144
     ]
   },
   {
-    "teal": 109,
+    "teal": 85,
     "source": "contracts/dao.algo.ts:26",
+    "errorMessage": "transaction verification failed: {\"txn\":\"this.txn\",\"field\":\"sender\",\"expected\":\"this.app.address\"}",
     "pc": [
       145
     ]
   },
   {
-    "teal": 112,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 89,
+    "source": "contracts/dao.algo.ts:29",
     "pc": [
       146,
       147,
@@ -487,329 +397,983 @@
     ]
   },
   {
-    "teal": 113,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 90,
+    "source": "contracts/dao.algo.ts:29",
     "pc": [
       149
     ]
   },
   {
-    "teal": 114,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 91,
+    "source": "contracts/dao.algo.ts:29",
     "pc": [
       150
     ]
   },
   {
-    "teal": 115,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 92,
+    "source": "contracts/dao.algo.ts:29",
     "pc": [
       151
     ]
   },
   {
-    "teal": 116,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 93,
+    "source": "contracts/dao.algo.ts:29",
     "pc": [
-      152,
-      153,
+      152
+    ]
+  },
+  {
+    "teal": 94,
+    "source": "contracts/dao.algo.ts:29",
+    "pc": [
+      153
+    ]
+  },
+  {
+    "teal": 95,
+    "source": "contracts/dao.algo.ts:29",
+    "pc": [
       154
     ]
   },
   {
-    "teal": 117,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 102,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
       155
     ]
   },
   {
-    "teal": 118,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 103,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
-      156
-    ]
-  },
-  {
-    "teal": 119,
-    "source": "contracts/dao.algo.ts:26",
-    "pc": [
+      156,
       157
     ]
   },
   {
-    "teal": 120,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 104,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
-      158
-    ]
-  },
-  {
-    "teal": 121,
-    "source": "contracts/dao.algo.ts:26",
-    "pc": [
+      158,
       159
     ]
   },
   {
-    "teal": 122,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 108,
+    "source": "contracts/dao.algo.ts:31",
     "pc": [
-      160
-    ]
-  },
-  {
-    "teal": 126,
-    "source": "contracts/dao.algo.ts:26",
-    "pc": [
+      160,
       161,
-      162,
-      163
+      162
     ]
   },
   {
-    "teal": 130,
-    "source": "contracts/dao.algo.ts:27",
+    "teal": 109,
+    "source": "contracts/dao.algo.ts:31",
     "pc": [
+      163,
       164
     ]
   },
   {
-    "teal": 131,
-    "source": "contracts/dao.algo.ts:27",
+    "teal": 113,
+    "source": "contracts/dao.algo.ts:32",
     "pc": [
-      165
+      165,
+      166
     ]
   },
   {
-    "teal": 132,
-    "source": "contracts/dao.algo.ts:27",
+    "teal": 114,
+    "source": "contracts/dao.algo.ts:32",
     "pc": [
-      166,
       167,
       168
     ]
   },
   {
-    "teal": 133,
-    "source": "contracts/dao.algo.ts:26",
+    "teal": 117,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
       169
     ]
   },
   {
-    "teal": 138,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 118,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
-      170
+      170,
+      171
     ]
   },
   {
-    "teal": 141,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 121,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
-      171,
-      172,
-      173
+      172
     ]
   },
   {
-    "teal": 142,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 122,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
+      173,
       174
     ]
   },
   {
-    "teal": 143,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 123,
+    "source": "contracts/dao.algo.ts:30",
     "pc": [
-      175
-    ]
-  },
-  {
-    "teal": 144,
-    "source": "contracts/dao.algo.ts:31",
-    "pc": [
+      175,
       176
     ]
   },
   {
-    "teal": 145,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 127,
+    "source": "contracts/dao.algo.ts:35",
     "pc": [
-      177
+      177,
+      178
     ]
   },
   {
-    "teal": 149,
-    "source": "contracts/dao.algo.ts:31",
+    "teal": 130,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
-      178,
       179,
       180
     ]
   },
   {
-    "teal": 153,
-    "source": "contracts/dao.algo.ts:32",
+    "teal": 131,
+    "source": "contracts/dao.algo.ts:23",
     "pc": [
       181
     ]
   },
   {
-    "teal": 154,
-    "source": "contracts/dao.algo.ts:32",
+    "teal": 137,
+    "source": "contracts/dao.algo.ts:40",
     "pc": [
-      182
-    ]
-  },
-  {
-    "teal": 155,
-    "source": "contracts/dao.algo.ts:32",
-    "pc": [
-      183
-    ]
-  },
-  {
-    "teal": 156,
-    "source": "contracts/dao.algo.ts:32",
-    "pc": [
+      182,
+      183,
       184
     ]
   },
   {
-    "teal": 157,
-    "source": "contracts/dao.algo.ts:32",
+    "teal": 138,
+    "source": "contracts/dao.algo.ts:40",
     "pc": [
       185
     ]
   },
   {
-    "teal": 158,
-    "source": "contracts/dao.algo.ts:32",
+    "teal": 141,
+    "source": "contracts/dao.algo.ts:40",
     "pc": [
-      186
-    ]
-  },
-  {
-    "teal": 159,
-    "source": "contracts/dao.algo.ts:32",
-    "pc": [
-      187
-    ]
-  },
-  {
-    "teal": 160,
-    "source": "contracts/dao.algo.ts:31",
-    "pc": [
+      186,
+      187,
       188
     ]
   },
   {
-    "teal": 163,
-    "source": "contracts/dao.algo.ts:3",
+    "teal": 142,
+    "source": "contracts/dao.algo.ts:40",
     "pc": [
-      189,
-      190,
+      189
+    ]
+  },
+  {
+    "teal": 143,
+    "source": "contracts/dao.algo.ts:40",
+    "pc": [
+      190
+    ]
+  },
+  {
+    "teal": 147,
+    "source": "contracts/dao.algo.ts:40",
+    "pc": [
       191,
       192,
-      193,
+      193
+    ]
+  },
+  {
+    "teal": 155,
+    "source": "contracts/dao.algo.ts:43",
+    "pc": [
       194
     ]
   },
   {
-    "teal": 164,
-    "source": "contracts/dao.algo.ts:3",
+    "teal": 156,
+    "source": "contracts/dao.algo.ts:43",
     "pc": [
       195,
-      196,
-      197
+      196
     ]
   },
   {
-    "teal": 165,
-    "source": "contracts/dao.algo.ts:3",
+    "teal": 157,
+    "source": "contracts/dao.algo.ts:43",
     "pc": [
-      198,
-      199,
-      200,
-      201
+      197,
+      198
     ]
   },
   {
-    "teal": 168,
-    "source": "contracts/dao.algo.ts:3",
-    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
+    "teal": 161,
+    "source": "contracts/dao.algo.ts:44",
     "pc": [
+      199
+    ]
+  },
+  {
+    "teal": 162,
+    "source": "contracts/dao.algo.ts:44",
+    "pc": [
+      200
+    ]
+  },
+  {
+    "teal": 163,
+    "source": "contracts/dao.algo.ts:44",
+    "pc": [
+      201,
       202
     ]
   },
   {
-    "teal": 171,
-    "source": "contracts/dao.algo.ts:3",
+    "teal": 167,
+    "source": "contracts/dao.algo.ts:45",
     "pc": [
       203,
-      204,
+      204
+    ]
+  },
+  {
+    "teal": 168,
+    "source": "contracts/dao.algo.ts:45",
+    "pc": [
       205,
-      206,
-      207,
-      208
+      206
     ]
   },
   {
     "teal": 172,
-    "source": "contracts/dao.algo.ts:3",
+    "source": "contracts/dao.algo.ts:46",
     "pc": [
-      209,
-      210,
-      211,
-      212,
-      213,
-      214
+      207
     ]
   },
   {
     "teal": 173,
-    "source": "contracts/dao.algo.ts:3",
+    "source": "contracts/dao.algo.ts:46",
+    "pc": [
+      208,
+      209
+    ]
+  },
+  {
+    "teal": 176,
+    "source": "contracts/dao.algo.ts:43",
+    "pc": [
+      210
+    ]
+  },
+  {
+    "teal": 177,
+    "source": "contracts/dao.algo.ts:43",
+    "pc": [
+      211,
+      212
+    ]
+  },
+  {
+    "teal": 180,
+    "source": "contracts/dao.algo.ts:43",
+    "pc": [
+      213
+    ]
+  },
+  {
+    "teal": 188,
+    "source": "contracts/dao.algo.ts:48",
+    "pc": [
+      214
+    ]
+  },
+  {
+    "teal": 189,
+    "source": "contracts/dao.algo.ts:48",
     "pc": [
       215,
-      216,
+      216
+    ]
+  },
+  {
+    "teal": 190,
+    "source": "contracts/dao.algo.ts:48",
+    "pc": [
       217,
-      218,
-      219,
+      218
+    ]
+  },
+  {
+    "teal": 194,
+    "source": "contracts/dao.algo.ts:49",
+    "pc": [
+      219
+    ]
+  },
+  {
+    "teal": 195,
+    "source": "contracts/dao.algo.ts:49",
+    "pc": [
       220
     ]
   },
   {
-    "teal": 174,
-    "source": "contracts/dao.algo.ts:3",
+    "teal": 196,
+    "source": "contracts/dao.algo.ts:49",
     "pc": [
       221,
-      222,
-      223
+      222
     ]
   },
   {
-    "teal": 175,
+    "teal": 200,
+    "source": "contracts/dao.algo.ts:50",
+    "pc": [
+      223,
+      224
+    ]
+  },
+  {
+    "teal": 201,
+    "source": "contracts/dao.algo.ts:50",
+    "pc": [
+      225,
+      226
+    ]
+  },
+  {
+    "teal": 205,
+    "source": "contracts/dao.algo.ts:51",
+    "pc": [
+      227
+    ]
+  },
+  {
+    "teal": 206,
+    "source": "contracts/dao.algo.ts:51",
+    "pc": [
+      228,
+      229
+    ]
+  },
+  {
+    "teal": 209,
+    "source": "contracts/dao.algo.ts:48",
+    "pc": [
+      230
+    ]
+  },
+  {
+    "teal": 210,
+    "source": "contracts/dao.algo.ts:48",
+    "pc": [
+      231,
+      232
+    ]
+  },
+  {
+    "teal": 213,
+    "source": "contracts/dao.algo.ts:48",
+    "pc": [
+      233
+    ]
+  },
+  {
+    "teal": 214,
+    "source": "contracts/dao.algo.ts:40",
+    "pc": [
+      234
+    ]
+  },
+  {
+    "teal": 219,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      235,
+      236,
+      237
+    ]
+  },
+  {
+    "teal": 220,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      238
+    ]
+  },
+  {
+    "teal": 221,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      239
+    ]
+  },
+  {
+    "teal": 222,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      240
+    ]
+  },
+  {
+    "teal": 223,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      241
+    ]
+  },
+  {
+    "teal": 226,
+    "source": "contracts/dao.algo.ts:55",
+    "errorMessage": "argument 0 (inFavour) for vote must be a bool",
+    "pc": [
+      242
+    ]
+  },
+  {
+    "teal": 227,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      243
+    ]
+  },
+  {
+    "teal": 228,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      244
+    ]
+  },
+  {
+    "teal": 231,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      245,
+      246,
+      247
+    ]
+  },
+  {
+    "teal": 232,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      248
+    ]
+  },
+  {
+    "teal": 233,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      249
+    ]
+  },
+  {
+    "teal": 237,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      250,
+      251,
+      252
+    ]
+  },
+  {
+    "teal": 241,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      253
+    ]
+  },
+  {
+    "teal": 242,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      254
+    ]
+  },
+  {
+    "teal": 243,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      255
+    ]
+  },
+  {
+    "teal": 244,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      256
+    ]
+  },
+  {
+    "teal": 245,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      257
+    ]
+  },
+  {
+    "teal": 246,
+    "source": "contracts/dao.algo.ts:56",
+    "pc": [
+      258
+    ]
+  },
+  {
+    "teal": 251,
+    "source": "contracts/dao.algo.ts:57",
+    "pc": [
+      259,
+      260
+    ]
+  },
+  {
+    "teal": 252,
+    "source": "contracts/dao.algo.ts:57",
+    "pc": [
+      261,
+      262,
+      263
+    ]
+  },
+  {
+    "teal": 257,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      264
+    ]
+  },
+  {
+    "teal": 258,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      265
+    ]
+  },
+  {
+    "teal": 259,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      266
+    ]
+  },
+  {
+    "teal": 260,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      267
+    ]
+  },
+  {
+    "teal": 261,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      268
+    ]
+  },
+  {
+    "teal": 262,
+    "source": "contracts/dao.algo.ts:58",
+    "pc": [
+      269
+    ]
+  },
+  {
+    "teal": 265,
+    "source": "contracts/dao.algo.ts:55",
+    "pc": [
+      270
+    ]
+  },
+  {
+    "teal": 270,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      271
+    ]
+  },
+  {
+    "teal": 273,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      272,
+      273,
+      274
+    ]
+  },
+  {
+    "teal": 274,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      275
+    ]
+  },
+  {
+    "teal": 275,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      276
+    ]
+  },
+  {
+    "teal": 276,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      277
+    ]
+  },
+  {
+    "teal": 277,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      278,
+      279,
+      280
+    ]
+  },
+  {
+    "teal": 278,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      281
+    ]
+  },
+  {
+    "teal": 279,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      282
+    ]
+  },
+  {
+    "teal": 280,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      283
+    ]
+  },
+  {
+    "teal": 281,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      284
+    ]
+  },
+  {
+    "teal": 282,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      285
+    ]
+  },
+  {
+    "teal": 283,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      286
+    ]
+  },
+  {
+    "teal": 287,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      287,
+      288,
+      289
+    ]
+  },
+  {
+    "teal": 291,
+    "source": "contracts/dao.algo.ts:64",
+    "pc": [
+      290,
+      291
+    ]
+  },
+  {
+    "teal": 292,
+    "source": "contracts/dao.algo.ts:64",
+    "pc": [
+      292
+    ]
+  },
+  {
+    "teal": 293,
+    "source": "contracts/dao.algo.ts:64",
+    "pc": [
+      293,
+      294,
+      295
+    ]
+  },
+  {
+    "teal": 294,
+    "source": "contracts/dao.algo.ts:63",
+    "pc": [
+      296
+    ]
+  },
+  {
+    "teal": 299,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      297
+    ]
+  },
+  {
+    "teal": 302,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      298,
+      299,
+      300
+    ]
+  },
+  {
+    "teal": 303,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      301
+    ]
+  },
+  {
+    "teal": 304,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      302
+    ]
+  },
+  {
+    "teal": 305,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      303
+    ]
+  },
+  {
+    "teal": 306,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      304
+    ]
+  },
+  {
+    "teal": 310,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      305,
+      306,
+      307
+    ]
+  },
+  {
+    "teal": 314,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      308
+    ]
+  },
+  {
+    "teal": 315,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      309
+    ]
+  },
+  {
+    "teal": 316,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      310
+    ]
+  },
+  {
+    "teal": 317,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      311
+    ]
+  },
+  {
+    "teal": 318,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      312
+    ]
+  },
+  {
+    "teal": 319,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      313
+    ]
+  },
+  {
+    "teal": 320,
+    "source": "contracts/dao.algo.ts:69",
+    "pc": [
+      314
+    ]
+  },
+  {
+    "teal": 321,
+    "source": "contracts/dao.algo.ts:68",
+    "pc": [
+      315
+    ]
+  },
+  {
+    "teal": 324,
     "source": "contracts/dao.algo.ts:3",
     "pc": [
-      224,
-      225,
-      226,
-      227,
-      228,
-      229,
-      230,
-      231
+      316,
+      317,
+      318,
+      319,
+      320,
+      321
     ]
   },
   {
-    "teal": 178,
+    "teal": 325,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      322,
+      323,
+      324
+    ]
+  },
+  {
+    "teal": 326,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      325,
+      326,
+      327,
+      328
+    ]
+  },
+  {
+    "teal": 329,
+    "source": "contracts/dao.algo.ts:3",
+    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
+    "pc": [
+      329
+    ]
+  },
+  {
+    "teal": 332,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      330,
+      331,
+      332,
+      333,
+      334,
+      335
+    ]
+  },
+  {
+    "teal": 333,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      336,
+      337,
+      338,
+      339,
+      340,
+      341
+    ]
+  },
+  {
+    "teal": 334,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      342,
+      343,
+      344,
+      345,
+      346,
+      347
+    ]
+  },
+  {
+    "teal": 335,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      348,
+      349,
+      350,
+      351,
+      352,
+      353
+    ]
+  },
+  {
+    "teal": 336,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      354,
+      355,
+      356,
+      357,
+      358,
+      359
+    ]
+  },
+  {
+    "teal": 337,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      360,
+      361,
+      362
+    ]
+  },
+  {
+    "teal": 338,
+    "source": "contracts/dao.algo.ts:3",
+    "pc": [
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374
+    ]
+  },
+  {
+    "teal": 341,
     "source": "contracts/dao.algo.ts:3",
     "errorMessage": "this contract does not implement the given ABI method for call NoOp",
     "pc": [
-      232
+      375
     ]
   }
 ]
