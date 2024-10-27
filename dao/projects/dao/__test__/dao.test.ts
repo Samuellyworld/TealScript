@@ -33,4 +33,11 @@ describe('dao', () => {
    expect(getProposalFromMethod.return?.valueOf()).toBe(proposal);
   });
 
+  test("votes and gets votes", async () => {
+    await appClient.vote({ inFavour: true });
+    const votes = await appClient.getVotes({});
+    expect(votes.return?.valueOf()).toEqual([BigInt(1), BigInt(1)]);
+  }
+  );
+
 });
